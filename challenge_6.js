@@ -12,6 +12,6 @@ function findBiggerNumber(firstNum, secondNum) {
     }
   }
   
-  console.log(findBiggerNumber(6, 7)) // 7
-  console.log(findBiggerNumber(5, 1)) // 5
-  console.log(findBiggerNumber(2, 2)) // 2
+console.log(findBiggerNumber(6, 7)) // 7
+console.log(findBiggerNumber(5, 1)) // 5
+console.log(findBiggerNumber(2, 2)) // 2
